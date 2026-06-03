@@ -1,0 +1,5 @@
+Instruções de uso:
+
+1-Realize o download de todos os arquivos em uma única pasta
+2-Localmente, abra a pasta com IDE ou terminal
+3-Execute o arquivo "main.py"
